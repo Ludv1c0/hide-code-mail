@@ -9,8 +9,10 @@
  * — this file simply makes use of it, the same way it would make use of
  * the same behaviour on any other provider that happens to offer it.
  * (Gmail® and Google® Workspace are trademarks of Google® LLC (not
- * affiliated), a subsidiary of Alphabet Inc. (likewise not affiliated
- * with this project); see README.md for the full trademark notice.)
+ * affiliated), a subsidiary of Alphabet® Inc. (likewise not affiliated
+ * with this project). Alphabet® is itself a separate registered
+ * trademark too, held by Alphabet® Inc.; see README.md for the full
+ * trademark notice.)
  *
  *     piero.dellafrancesca@gmail.com
  *     pIero.dellaFrancesca@gmail.com

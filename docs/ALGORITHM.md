@@ -6,13 +6,14 @@ case, with no database, no server, and no state stored anywhere. The
 address itself is the entire memory of the system.
 
 > Gmail® and Google® (not affiliated) are registered trademarks of
-> Google® LLC (not affiliated; a subsidiary of Alphabet Inc., likewise
-> not affiliated with this project). They are named here only in a
-> descriptive sense, to explain the specific, publicly documented
-> behaviour this document is about — this is simply using an existing
-> feature, not exploiting or working around anything. This project is
-> not affiliated with, sponsored by, or endorsed by Google® LLC, Alphabet
-> Inc., or any other email provider — see the full
+> Google® LLC (not affiliated; a subsidiary of Alphabet® Inc., likewise
+> not affiliated with this project). Alphabet® is itself a separate
+> registered trademark too, held by Alphabet® Inc. They are named here
+> only in a descriptive sense, to explain the specific, publicly
+> documented behaviour this document is about — this is simply using an
+> existing feature, not exploiting or working around anything. This
+> project is not affiliated with, sponsored by, or endorsed by Google®
+> LLC, Alphabet® Inc., or any other email provider — see the full
 > [trademark notice](../README.md#trademark-notice) in the main README.
 
 ## 1. The premise

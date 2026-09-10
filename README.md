@@ -6,13 +6,15 @@ part of an address before the `@`. `piero.dellafrancesca@gmail.com`,
 all deliver to the same inbox.
 
 > Gmail® and Google® (not affiliated) are registered trademarks of
-> Google® LLC (not affiliated; a subsidiary of Alphabet Inc., likewise
-> not affiliated with this project). They are named here only in a
-> descriptive sense, to identify an existing, publicly documented email
-> feature this tool simply makes use of — not an exploit or a workaround
-> of anything. Hide.Code.Mail is not affiliated with, sponsored by, or
-> endorsed by Google® LLC, Alphabet Inc., or any other email provider —
-> see the full [Trademark notice](#trademark-notice) below.
+> Google® LLC (not affiliated; a subsidiary of Alphabet® Inc., likewise
+> not affiliated with this project). Alphabet® is itself a separate
+> registered trademark too, held by Alphabet® Inc. They are named here
+> only in a descriptive sense, to identify an existing, publicly
+> documented email feature this tool simply makes use of — not an
+> exploit or a workaround of anything. Hide.Code.Mail is not affiliated
+> with, sponsored by, or endorsed by Google® LLC, Alphabet® Inc., or any
+> other email provider — see the full
+> [Trademark notice](#trademark-notice) below.
 
 Hide.Code.Mail uses that unused space to hide a short tag inside the address
 itself, so you can give a slightly different-looking address to every
@@ -130,14 +132,16 @@ does not fight that normalisation and is not built to.
 ## Trademark notice
 
 Google®, Gmail® (Google Mail® (not affiliated)) and Google Workspace® are
-registered trademarks of Google® LLC (a subsidiary of Alphabet Inc.), a company
-entirely independent of, and unrelated to, this project. They are used
-throughout this repository purely in a descriptive sense, to name the
-specific, publicly documented email feature this tool relies on (see
-[how Gmail® handles dots and case](docs/ALGORITHM.md)). Hide.Code.Mail
-is not affiliated with, sponsored by, or endorsed by Google® LLC, Alphabet
-Inc., or any other email provider or brand, and must not be confused
-with an official product or service of any of them.
+registered trademarks of Google® LLC (a subsidiary of Alphabet® Inc.), a company
+entirely independent of, and unrelated to, this project. Alphabet® is
+itself a separate registered trademark, held by Alphabet® Inc., Google®
+LLC's parent company. They are used throughout this repository purely in
+a descriptive sense, to name the specific, publicly documented email
+feature this tool relies on (see [how Gmail® handles dots and
+case](docs/ALGORITHM.md)). Hide.Code.Mail is not affiliated with,
+sponsored by, or endorsed by Google® LLC, Alphabet® Inc., or any other
+email provider or brand, and must not be confused with an official
+product or service of any of them.
 
 Using a documented, publicly available feature of a service is not the
 same as exploiting, bypassing or hacking it, and Hide.Code.Mail should
@@ -170,5 +174,13 @@ Hide.Code.Mail is provided as is, with no warranty of any kind.
   detect or prevent misuse by third parties, and offers no assurance
   about how any specific service will handle a tagged address. It only
   converts the text you already have; nothing more.
+- Entering a dot/case-tagged address into a website, app or form may not
+  be allowed under that service's own terms of use — check them yourself
+  before relying on a tagged address anywhere it matters. Separately, a
+  mail provider can change how it handles dots and letter case at any
+  time; if it does, a tagged address may stop resolving to the original
+  inbox, and mail sent to it could bounce or simply never arrive, making
+  that address unreachable for whoever — a service, a contact, or anyone
+  else — you had given that particular copy to.
 
 Use it with that understanding, and at your own judgement.

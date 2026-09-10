@@ -48,16 +48,20 @@ script.js            the cipher implementation and UI wiring
 docs/ALGORITHM.md    full write-up of the algorithm
 ```
 
-## Hosting on GitHub Pages
+## Hosting on GitHub® Pages
 
-1. Create a new GitHub repository and push these files to it (`index.html`,
+GitHub® is a registered trademark of GitHub, Inc. (not affiliated with,
+sponsored by, or endorsed by this project), named here only to give
+concrete hosting instructions.
+
+1. Create a new GitHub® repository and push these files to it (`index.html`,
    `style.css`, `script.js`, `docs/`), keeping them at the repository root.
 2. In the repository, go to **Settings → Pages**.
 3. Under **Build and deployment → Source**, choose **Deploy from a
    branch**.
 4. Under **Branch**, choose `main` (or whichever branch holds the files)
    and folder `/ (root)`, then save.
-5. GitHub publishes the page at
+5. GitHub® publishes the page at
    `https://<your-username>.github.io/<repository-name>/` within a minute
    or two. Re-pushing to that branch redeploys automatically.
 

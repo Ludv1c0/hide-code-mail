@@ -160,6 +160,13 @@ and that provider either. Any other proprietary or trademarked name that
 may be mentioned anywhere in this project is used under the same
 descriptive, non-affiliated basis.
 
+**Who was "Piero della Francesca"?** The name used throughout this
+repository's examples is a stand-in only, with no affiliation of any
+kind with the historical painter and mathematician or with his
+successors. Curious readers can read more on
+[Wikipedia®](https://en.wikipedia.org/wiki/Piero_della_Francesca)
+(English; not affiliated).
+
 ## Disclaimer
 
 Hide.Code.Mail is provided as is, with no warranty of any kind.
